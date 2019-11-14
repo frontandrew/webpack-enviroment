@@ -1,11 +1,13 @@
 {
   "name": "praktikum",
+  "homepage": "https://somedew.github.io/praktikum",
   "version": "0.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
     "build": "rimraf dist && webpack --mode production",
-    "dev": "webpack-dev-server --mode development --open --watch"
+    "dev": "webpack-dev-server --mode development --open --watch",
+    "deploy": "gh-pages -d dist"
   },
   "author": "Andrew B",
   "license": "ISC",
