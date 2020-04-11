@@ -11,5 +11,4 @@ Using tools:
 - Babel;
 - Others.
 
------
-> Feel free to ask your questions **@dewandrew**
+> Feel free to ask your questions in [telegram](https://t.me/frontandrew)
